@@ -1,9 +1,8 @@
 /**
-* This program prints out
-*   the Magic Sqaures.
+* This is the package-info.java file.
 *
-* @author  Nicholas B. & Mr. Coxall
+* @author  Felipe Garcia Affonso
 * @version 1.0
-* @since   2020-01-01
+* @since   2021-11-18
 */
 package ca.mths.ics4u;
